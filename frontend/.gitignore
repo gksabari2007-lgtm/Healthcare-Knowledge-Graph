@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+.vite/
+.vite-temp/
+.env
+.env.local
+.env.*.local
+!.env.example
+*.local
